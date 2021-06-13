@@ -1,5 +1,5 @@
 {
-  "name": "hw10",
+  "name": "teamprofilegenerator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uanq2/hw10.git"
+    "url": "git+https://github.com/uanq2/Team-Profile-Generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/uanq2/hw10/issues"
+    "url": "https://github.com/uanq2/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/uanq2/hw10#readme",
+  "homepage": "https://github.com/uanq2/Team-Profile-Generator#readme",
   "devDependencies": {
     "jest": "^27.0.1"
   },
